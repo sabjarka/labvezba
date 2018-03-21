@@ -1,0 +1,18 @@
+$ git log
+commit 508eb96d6a45d7d729163ddb5764521b7573e52e
+Author: Sabjarka <Sabjarka@gmail.com>
+Date:   Wed Mar 21 17:54:54 2018 +0100
+
+    Promena
+
+commit d26558d97b654e3f97fd0eba1b22e4acb060ca98
+Author: Sabjarka <Sabjarka@gmail.com>
+Date:   Wed Mar 21 17:47:51 2018 +0100
+
+    Modify l1.txt
+
+commit 586555085b28e8f703bfedcb4dfbb764724be8ee
+Author: Sabjarka <Sabjarka@gmail.com>
+Date:   Wed Mar 21 17:47:13 2018 +0100
+
+    Initial commit
